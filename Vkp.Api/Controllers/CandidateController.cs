@@ -49,7 +49,7 @@ namespace Vkp.Controllers
 
             if (existingCandidate != null)
             {
-                return Conflict("There is already another candidate with the same name and party.");
+                return Conflict("Candidate has already created");
             }
 
             var candidate = new Candidate
