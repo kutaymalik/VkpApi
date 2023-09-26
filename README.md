@@ -58,6 +58,7 @@ Ex: Candidate:
 ![FakeCandidateService-DependencyInjection](https://github.com/kutaymalik/VkpApi/assets/56682209/7b6eb15f-d4ed-44a5-b94f-c464fa5925b7)
 
 ### Extension
+This extension is used to convert from the main model to a dto model that contains only the necessary fields.
 ![ToDtoExtension](https://github.com/kutaymalik/VkpApi/assets/56682209/f2afb296-6638-4471-82a5-7993425fc3ac)
 
 ### SwaggerImplementation
@@ -65,10 +66,12 @@ Ex: Candidate:
 
 
 ### Global Logging Middleware Output
+This middleware logs http requests.
 ![GlobalLoggingMiddleware](https://github.com/kutaymalik/VkpApi/assets/56682209/454bb93f-117f-470a-80f3-c4eccdc41576)
 
 
 ### Global Exception Middleware 
+This middleware API logs in case of exceptions (status 500 code).
 ![GlobalExceptionMiddleware](https://github.com/kutaymalik/VkpApi/assets/56682209/90413010-8e1a-48aa-95b9-5dcddd967595)
 ode
 
