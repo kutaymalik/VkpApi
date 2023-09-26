@@ -65,7 +65,8 @@ Ex: Candidate:
 
 
 ### Global Logging Middleware Output
-![GlobalLoggingMiddleware](https://github.com/kutaymalik/VkpApi/assets/56682209/3d886011-8c14-43b8-9752-7d58ac9c62ab)
+![GlobalLoggingMiddleware](https://github.com/kutaymalik/VkpApi/assets/56682209/454bb93f-117f-470a-80f3-c4eccdc41576)
+
 
 ### Global Exception Middleware 
 ![GlobalExceptionMiddleware](https://github.com/kutaymalik/VkpApi/assets/56682209/90413010-8e1a-48aa-95b9-5dcddd967595)
